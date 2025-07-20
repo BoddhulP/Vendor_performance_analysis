@@ -12,3 +12,10 @@ Effective inventory and sales management are critical for optimizing profitabili
 
 • Assess inventory turnover to reduce holding costs and improve efficiency.
 
+# Exploratory Data Analysis
+
+Understanding the dataset to explore how the data is present in the database and if there is a need of creating some aggregated tables that can help with:
+
+• Vendor selection for profitability
+
+• Product Pricing Optimization
